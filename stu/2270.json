@@ -1,0 +1,54 @@
+{
+    "stuid": "2270",
+    "name": "Eric",
+    "grade": "10年级",
+    "title": "基于机器学习的青少年心理健康评估系统",
+    "status": "开发中，进度正常",
+
+    "projectStartDate": "2024-01-01",
+    "completionDate": "2024-06-15",
+    "releaseDate": "2024-07-01",
+
+    "paperPeriod": "2024-02-01",
+    "patentPeriod": "2024-02-15",
+
+    "competitions": [
+        {
+            "date": "2025-03-15",
+            "name": "Diamond Challenge 初赛"
+        },
+        {
+            "date": "2025-04-15",
+            "name": "Diamond Challenge 决赛"
+        },
+        {
+            "date": "2025-05-01",
+            "name": "Congressional App Challenge"
+        }
+    ],
+
+    "promotionDate": "2024-07-15",
+    "registrationDate": "2024-08-01",
+    "websiteDate": "2024-08-15",
+
+    "volunteerWork": {
+        "startDate": "2025-03-01",
+        "endDate": "2025-08-31",
+        "activities": [
+            {
+                "date": "2025-03-01",
+                "name": "开始义工活动"
+            },
+            {
+                "date": "2025-08-31",
+                "name": "总统义工奖证书申请"
+            }
+        ]
+    },
+
+    "projectSummary": {
+        "recommendationLetter": "2025-08-01",
+        "applicationSupport": "2025-08-15",
+        "finalSummary": "2025-09-01"
+    }
+}
